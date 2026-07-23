@@ -4,7 +4,7 @@ import streamlit as st
 
 st.set_page_config(page_title="동영상 모음", page_icon="🎬", layout="centered")
 st.title("🎬 내 동영상 모음")
-st.image("poster.png", caption="모델 성능 요약", use_container_width=True)
+st.image("poster1.png", caption="모델 성능 요약", use_container_width=True)
 
 # ===== 유튜브(미등록) 링크 — 여기에 추가/수정 =====
 # ("제목", "링크") 형식. 제목은 원하는 대로 바꾸세요.
